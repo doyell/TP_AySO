@@ -1,1 +1,2 @@
 “Usuario=root”
+model name	: Intel(R) Celeron(R) N4500 @ 1.10GHz
